@@ -1,5 +1,5 @@
 {
-    "name": "security_manager",
+    "name": "security-manager",
     "description": "Security Management",
     "private": true,
     "scripts": {
